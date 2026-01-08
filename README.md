@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi I'm Mewinator
 
-<!--
-**Mewinator/Mewinator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me:
+- I like to code Javascript, CSS, and HTML in free time.
+- I am learning to code better and more effeciently.
 
-Here are some ideas to get you started:
+### I sometimes make animations in blender
+![Blender animation](taptappingu.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Things I like:
+- My favorite game is `Minecraft`
+- My favorite foods are `Tomatoes` and `Nachos`
+
+### I have two cats but my favorite animal is a penguin.
+### Contact me:
+- Email: bWV3aW5hdG9yQGdtYWlsLmNvbQ== | base64
+- Discord: mewinatorx2
