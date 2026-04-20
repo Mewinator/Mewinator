@@ -14,6 +14,6 @@
 - My favorite game is Minecraft
 
 ### Contact me:
-- Email: bWV3aW5hdG9yQGdtYWlsLmNvbQ== | base64
-- Discord: mewinatorx2
-- Signal: Mewinator.01
+- Email: ```bWV3aW5hdG9yQGdtYWlsLmNvbQ==```
+- Discord: ```mewinatorx2```
+- Signal: ```Mewinator.01```
