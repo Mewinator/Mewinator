@@ -4,16 +4,17 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-#### I want to learn to code in:
- ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
- ![WebAssembly](https://img.shields.io/badge/webassembly-%23654FF0.svg?style=for-the-badge&logo=webassembly&logoColor=white)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-### I sometimes make animations
-![animation](taptappingu.gif)
+### I like to 3d model/animate sometimes
+![Tap-Tap Pingu](taptappingu.gif)
+<img alt="He Fly" src="penguin-spaceship.png" width="400px" height="auto">
+##### Includes:
+- Tap-Tap Pingu
+- He Fly
 
-- My favorite game is Minecraft
+##### My favorite game is Minecraft
 
 ### Contact me:
 - Email: ```bWV3aW5hdG9yQGdtYWlsLmNvbQ==```
-- Discord: ```mewinatorx2```
-- Signal: ```Mewinator.01```
+- Discord: ```bWV3aW5hdG9yeDI=```
+- Signal: ```TWV3aW5hdG9yLjAx```
+<p>They all in B64. hehe</p>
