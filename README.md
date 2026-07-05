@@ -7,9 +7,14 @@
 ### I like to 3d model/animate sometimes
 ![Tap-Tap Pingu](taptappingu.gif)
 <img alt="He Fly" src="penguin-spaceship.png" width="400px" height="auto">
+
+Click image to watch video:
+
+<a src="america 250.mp4"><img src="https://designerysigns.com/images/misc-pictures/free-printable-us-flag.jpg" alt="Video" width="400px" height="auto"></a>
 ##### Includes:
 - Tap-Tap Pingu
 - He Fly
+- The most patriotic video ever
 
 ##### My favorite game is Minecraft
 
