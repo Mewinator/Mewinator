@@ -10,7 +10,7 @@
 
 Click image to watch video:
 
-<a src="america 250.mp4"><img src="https://designerysigns.com/images/misc-pictures/free-printable-us-flag.jpg" alt="Video" width="400px" height="auto"></a>
+[![Alt text](https://placehold.co/400x225?text=Crappy+Video)](/america%20250.mp4)
 ##### Includes:
 - Tap-Tap Pingu
 - He Fly
