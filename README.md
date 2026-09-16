@@ -22,4 +22,4 @@ Click image to watch video:
 - Email: ```bWV3aW5hdG9yQGdtYWlsLmNvbQ==```
 - Discord: ```bWV3aW5hdG9yeDI=```
 - Signal: ```TWV3aW5hdG9yLjAx```
-<p>They all in B64. hehe</p>
+<p>They all in B64. hehehe</p>
