@@ -1,9 +1,28 @@
 # Hi I'm Mewinator
 ![GitHub Streak](https://streak-stats.demolab.com?user=Mewinator&theme=github-dark-blue&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=EB8217&background=45%2C0D1117%2C501D1D)
 #### I can code in:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p>
+	<a href="https://skillicons.dev">
+		<img
+			src="https://skillicons.dev/icons?i=html,js,css,md,nodejs"
+		/>
+	</a>
+</p>
+
+#### I can also use
+
+<p>
+	<a href="https://skillicons.dev">
+		<img
+			src="https://skillicons.dev/icons?i=blender,figma,git,github,vscode,windows,premiere,photoshop,illustrator"
+		/>
+	</a>
+</p>
+
+##### But I like Photopea for Photoshop work away from my setup.
+
+
+
 ### I like to 3d model/animate sometimes
 ![Tap-Tap Pingu](taptappingu.gif)
 <img alt="He Fly" src="penguin-spaceship.png" width="400px" height="auto">
